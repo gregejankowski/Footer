@@ -1,0 +1,2 @@
+# Footer
+LWC Footer Component
