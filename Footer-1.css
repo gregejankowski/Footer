@@ -1,0 +1,10 @@
+/* --- FOOTER --- */
+.footer-general {background-color: #f9f9f9; padding-bottom:36px; padding-top:32px;}
+/* FOOTER Desktop */
+.foot-left {text-align: left;}
+.foot-right {text-align: right;}
+/* FOOTER Tablet and mobile */
+@media only screen and (max-width: 641px)
+{.foot-left {text-align: center;}
+ .foot-right {margin-top: 12px; text-align: center;}
+}
