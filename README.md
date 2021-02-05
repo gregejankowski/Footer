@@ -2,13 +2,16 @@
 LWC Footer Component 
 
 -- Changelog:
+
   2/5/21 Created
 
 -- Notes:
+
   This component is meant to add one line to a footer. For multi-line footers, just add another component.
   Values for the footer are stored in Custom Settings to keep the values easy to change.
   
 -- Features:
+
   1) Set max-width for background and background color
   2) Set max-width for footer content
   3) Set the # of columns
